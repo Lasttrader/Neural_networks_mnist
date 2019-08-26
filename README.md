@@ -1,1 +1,1 @@
-# Neural_network_mnist
+# Neural_networks notebooks
